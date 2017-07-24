@@ -28,7 +28,7 @@ exports.register = (req, res) => {
     .then(user => {
       req.login(user, function (err) {
         console.log('register success')
-        if (err) {return next(err)}
+        if (err) { return next(err) }
         req.session.username = req.user.username
         return res.redirect('/events')
       })
