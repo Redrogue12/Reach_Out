@@ -25,7 +25,7 @@
     "passport-email": "0.0.3",
     "passport-http": "^0.3.0",
     "passport-local": "^1.0.0",
-    "passport-local-mongoose": "^4.0.0",
+    "passport-local-mongoose": "^6.0.1",
     "validator": "^7.0.0"
   },
   "scripts": {
