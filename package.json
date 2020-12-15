@@ -20,7 +20,7 @@
     "mocha": "^3.3.0",
     "mongoose": "^4.9.6",
     "mongoose-mongodb-errors": "0.0.2",
-    "morgan": "^1.8.1",
+    "morgan": "^1.9.1",
     "passport": "^0.3.2",
     "passport-email": "0.0.3",
     "passport-http": "^0.3.0",
